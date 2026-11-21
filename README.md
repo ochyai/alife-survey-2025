@@ -1,5 +1,16 @@
 # ALife Survey 2025: 人工生命研究サーベイ / Artificial Life Research Survey
 
+<!-- about -->
+> **このリポは何か**：基盤モデルと人工生命の接点、自己複製、オープンエンド進化を軸に、人工生命研究の文献を整理する。
+>
+> **What this is**: This literature survey examines foundation models in artificial life, self-replication, and open-ended evolution.
+>
+> **まず開く / Start here**：`README.md`
+>
+> **近いリポ / Related**：[realtime-flowlenia](https://github.com/ochyai/realtime-flowlenia)（サーベイで取り上げたFlow Leniaをリアルタイムで動かせる。 / Runs an interactive simulation of Flow Lenia, one of the systems covered in the survey.）・[alife-vesicle](https://github.com/ochyai/alife-vesicle)（Transformerで制御した人工細胞が小胞で通信する様子を再現する。 / Simulates Transformer-controlled artificial cells that communicate through vesicles.）
+<!-- /about -->
+
+
 > **2024-2026年の人工生命研究の主要動向をカバーするサーベイリポジトリ**
 >
 > **A survey repository covering major trends in Artificial Life research from 2024-2026**
